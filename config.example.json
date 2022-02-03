@@ -1,0 +1,34 @@
+{
+  "prefix": "!",
+  "token": "",
+  "settings": {
+    "music_promote": {
+      "channelId": "749683311001075818",
+      "clientId": "",
+      "clientSecret": "",
+      "refreshToken": "",
+      "playlistId": "PL8FunnylVKthWN2ESfHBmDJphEjk8HjjQ"
+    },
+    "ooc": {
+      "baseURL": "https://aonahara.hizkifw.me/api/ooc"
+    },
+    "ss": {
+      "baseURL": "https://api.ragtag.moe/api/v1/stream-snatcher",
+      "restrictChannel": "738060986912735272",
+      "approvalKey": ""
+    },
+    "play": {
+      "baseURL": "https://electric-slave-bot-sounds.ragtag.workers.dev"
+    },
+    "pipeline": {
+      "apiBase": "https://api.ragtag.moe",
+      "restrictChannel": "738060986912735272"
+    },
+    "karaoke": {
+      "baseURL": "https://cocky-mahavira-187779.netlify.app/.netlify/functions"
+    },
+    "auth": {
+      "jwtKey": ""
+    }
+  }
+}
